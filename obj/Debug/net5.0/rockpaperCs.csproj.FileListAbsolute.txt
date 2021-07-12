@@ -1,0 +1,16 @@
+C:\codeworks\rockpaperCs\bin\Debug\net5.0\rockpaperCs.exe
+C:\codeworks\rockpaperCs\bin\Debug\net5.0\rockpaperCs.deps.json
+C:\codeworks\rockpaperCs\bin\Debug\net5.0\rockpaperCs.runtimeconfig.json
+C:\codeworks\rockpaperCs\bin\Debug\net5.0\rockpaperCs.runtimeconfig.dev.json
+C:\codeworks\rockpaperCs\bin\Debug\net5.0\rockpaperCs.dll
+C:\codeworks\rockpaperCs\bin\Debug\net5.0\ref\rockpaperCs.dll
+C:\codeworks\rockpaperCs\bin\Debug\net5.0\rockpaperCs.pdb
+C:\codeworks\rockpaperCs\obj\Debug\net5.0\rockpaperCs.csproj.AssemblyReference.cache
+C:\codeworks\rockpaperCs\obj\Debug\net5.0\rockpaperCs.GeneratedMSBuildEditorConfig.editorconfig
+C:\codeworks\rockpaperCs\obj\Debug\net5.0\rockpaperCs.AssemblyInfoInputs.cache
+C:\codeworks\rockpaperCs\obj\Debug\net5.0\rockpaperCs.AssemblyInfo.cs
+C:\codeworks\rockpaperCs\obj\Debug\net5.0\rockpaperCs.csproj.CoreCompileInputs.cache
+C:\codeworks\rockpaperCs\obj\Debug\net5.0\rockpaperCs.dll
+C:\codeworks\rockpaperCs\obj\Debug\net5.0\ref\rockpaperCs.dll
+C:\codeworks\rockpaperCs\obj\Debug\net5.0\rockpaperCs.pdb
+C:\codeworks\rockpaperCs\obj\Debug\net5.0\rockpaperCs.genruntimeconfig.cache
